@@ -1,0 +1,14 @@
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\bin\Debug\net7.0\finalproject.exe
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\bin\Debug\net7.0\finalproject.deps.json
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\bin\Debug\net7.0\finalproject.runtimeconfig.json
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\bin\Debug\net7.0\finalproject.dll
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\bin\Debug\net7.0\finalproject.pdb
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\finalproject.AssemblyInfoInputs.cache
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\finalproject.AssemblyInfo.cs
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\finalproject.dll
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\refint\finalproject.dll
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\finalproject.pdb
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\finalproject.genruntimeconfig.cache
+C:\Users\Alan.Reder\Desktop\Programming\C#\finalproject\obj\Debug\net7.0\ref\finalproject.dll
